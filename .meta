@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "interfaces": "git@github.com:svenvanheugten/meta-sln-test-interfaces.git",
+    "implementation": "git@github.com:svenvanheugten/meta-sln-test-implementation.git"
+  }
+}
